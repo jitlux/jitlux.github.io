@@ -31,3 +31,4 @@ My email address is joel.rainti(at)helsinki.fi
 ## Misc. 
 
 [Old Norse Phonology](https://en.wikipedia.org/wiki/Old_Norse#Phonology) 
+[CV](https://www.overleaf.com/project/5e13891d0e917c000137cb63/invite/token/8914acdd5b6a7ed9c4abf6f5b4189110b934442d221fa049?project_name=Aneesh%20Jain%27s%20Resume&user_first_name=jolppiram)
