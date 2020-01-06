@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I started studying Linguistics in the University of Helsinki in the fall of 2019 because I've always been interested in languages. Recently, etymology has been particularly interesting to me, as well as Old Norse.
+<img src="assets/images/P1040032-1-2.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I started studying Linguistics in the University of Helsinki in the fall of 2019 because I've always been interested in languages. Recently, etymology has been particularly interesting to me, as well as Old Norse.
 
 My hobbies include video games, photography (Before deciding to study linguistics i had planned to study cinematography in Aalto University) and politics, which I intend to integrate into my studies.
 
