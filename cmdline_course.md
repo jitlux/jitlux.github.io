@@ -22,4 +22,28 @@ which you can use to move files from one directory to another or rename files an
 
 ### Week 2
 
-week 2 stuff
+Week 2 was about navigating the command line environment as well as controlling system processes. For example, the command `killall firefox` would kill all running instances of Firefox.
+
+### Week 3
+
+Week 3 was about corpus tools. One of the commands introduced was `dos2unix` which makes a Windows text file easily usable in UNIX.
+
+### Week 4
+
+Week 4 was about advanced usage of corpus tools. Students created a frequency list and used `sed` to 
+
+### Week 5
+
+Week 5 was about scripts. 
+
+### Week 6
+
+Week 6 was about installing and running programs. Students learned, among other things, about the `pip` command which is used to install Python modules.
+
+### Week 7
+
+Week 7 was about version control. Students created a git repository and learned to use commands like `git add` `git commit` `git push` and `git pull` which are used to synchronize local repositories with remote repositories.
+
+### Week 8
+
+Week 8 was about 
